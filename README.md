@@ -13,7 +13,7 @@
 
 <p>
   <em>
-    I'm a <b>Data science enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in this domain.
+    I'm a <b>Data Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in this domain.
   </em>
  </p>
 
@@ -23,7 +23,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Working as a Data Analyst at NCS Group
+- 👨🏽‍💻 Working as a Data Engineer at NCS Group
 - 🖋️  I completed my B. Tech. from Bharati Vidyapeeth's College Of Engineering, Pune
 - 🖋️ I'm actively participating in Data science competitions
 - 📌 Scroll down to see my Pinned Repositories
